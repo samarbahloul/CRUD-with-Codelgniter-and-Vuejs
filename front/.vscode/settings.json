@@ -1,0 +1,10 @@
+{
+    "eslint.options": {
+        "configFile": "D:\\xampp\\htdocs\\crud-Codelgniter-Vuejs\\frontend\\babel.config.js"
+    },
+    "eslint.workingDirectories": [
+        {
+            "mode": "auto"
+        }
+    ],
+}
